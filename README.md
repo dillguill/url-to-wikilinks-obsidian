@@ -67,7 +67,3 @@ By default, the script creates backups of all modified files in a designated bac
 - Only `.md` files are processed.
 - The script normalizes URLs by removing trailing slashes for matching.
 - Ensure your notes have proper YAML frontmatter with a `source` field containing the URL.
-
-## License
-
-This script is provided as-is. Use at your own risk.
